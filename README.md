@@ -6,7 +6,7 @@ Um aplicativo web simples para gerar QR codes personalizados.
 
 1. Clone o repositório:
 
-git clone https://github.com/seu-usuario/qr-generator.git
+git clone https://github.com/CaioSergio93/Gerador-de-Qr-Code.git
 
 2. Crie e ative o ambiente virtual:
 
